@@ -1,5 +1,7 @@
 # git-intro
 
+<img src="https://imgs.xkcd.com/comics/git.png">
+
 ## Install for Windows
 
 ### Git for Windows
